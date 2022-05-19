@@ -30,10 +30,10 @@ impl Votes{
         else if vote == 2{
             self.b += 1
         }
-        else if vote == 2{
+        else if vote == 3{
             self.c += 1
         }
-        else if vote == 2{
+        else if vote == 4{
             self.d += 1
         }
         return self
